@@ -1,0 +1,138 @@
+[
+  {
+    "id": "nfiRBgAAQBAJ",
+    "title": "Beginning JavaScript",
+    "summary": "The bestselling JavaScript guide, updated with current features and best practices Beginning JavaScript 5th Edition shows you how to work effectively with JavaScript frameworks, functions, and modern browsers, and teaches more effective ...",
+    "authors": [
+      "Jeremy McPeak"
+    ],
+    "publishedDate": "2015-03-09",
+    "thumbnail": "http://books.google.com/books/content?id=nfiRBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "3GOuDwAAQBAJ",
+    "title": "Professional JavaScript for Web Developers",
+    "summary": "Written for intermediate-to-advanced programmers, this book jumps right into the technical details to help you clean up your code and become a more sophisticated JavaScript developer.",
+    "authors": [
+      "Matt Frisbie"
+    ],
+    "publishedDate": "2019-10-15",
+    "thumbnail": "http://books.google.com/books/content?id=3GOuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "MhNhBgAAQBAJ",
+    "title": "Coding with JavaScript For Dummies",
+    "summary": "No experience? No problem! This friendly guide starts from the very beginning and walks you through the basics, then shows you how to apply what you&#39;ve learned to real projects.",
+    "authors": [
+      "Chris Minnick",
+      "Eva Holland"
+    ],
+    "publishedDate": "2015-05-26",
+    "thumbnail": "http://books.google.com/books/content?id=MhNhBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "p1v6DwAAQBAJ",
+    "title": "Eloquent JavaScript, 3rd Edition",
+    "summary": "As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs.",
+    "authors": [
+      "Marijn Haverbeke"
+    ],
+    "publishedDate": "2018-12-04",
+    "thumbnail": "http://books.google.com/books/content?id=p1v6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "vOZLwYJHymQC",
+    "title": "Beginning HTML, XHTML, CSS, and JavaScript",
+    "summary": "An indispensable introductory guide to creating web pages using the most up-to-date standards This beginner guide shows you how to use XHTML, CSS, and JavaScript to create compelling Web sites.",
+    "authors": [
+      "Jon Duckett"
+    ],
+    "publishedDate": "2011-02-17",
+    "thumbnail": "http://books.google.com/books/content?id=vOZLwYJHymQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "71nDBQAAQBAJ",
+    "title": "JavaScript for Kids",
+    "summary": "JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations.",
+    "authors": [
+      "Nick Morgan"
+    ],
+    "publishedDate": "2014-12-14",
+    "thumbnail": "http://books.google.com/books/content?id=71nDBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "jt6RNQEACAAJ",
+    "title": "JavaScript Bible",
+    "summary": "Part tutorial, part reference, this book serves as both a learning tool for building new JavaScript skills as well as a detailed reference for the more experienced JavaScript user.",
+    "authors": [
+      "Danny Goodman",
+      "Michael Morrison",
+      "Paul Novitski",
+      "Tia Gustaff Rayl"
+    ],
+    "publishedDate": "2010-11-09",
+    "thumbnail": "http://books.google.com/books/content?id=jt6RNQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "QSClxgEACAAJ",
+    "title": "JavaScript Absolute Beginner's Guide",
+    "summary": "JavaScript Absolute Beginner&#39;s Guide is a quick, easy-to-understand, light-hearted introduction to JavaScript for non-programmers.",
+    "authors": [
+      "Kirupa Chinnathambi"
+    ],
+    "publishedDate": "2019-12-27",
+    "thumbnail": "http://books.google.com/books/content?id=QSClxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "OMvXngEACAAJ",
+    "title": "Programming JavaScript Applications",
+    "summary": "&quot;Robust web architecture with Node, HTML5, and modern JS libraries&quot;--Cover.",
+    "authors": [
+      "Eric Elliott"
+    ],
+    "publishedDate": "2014-07-08",
+    "thumbnail": "http://books.google.com/books/content?id=OMvXngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "_uTRAwAAQBAJ",
+    "title": "JavaScript and jQuery",
+    "summary": "Duckett speaks directly to readers, making this an invaluable resource. This book is also available as a set, Web Design with HTML, CSS, JavaScript and jQuery Set 978119038634 along with HTML and CSS Design and Build Websites 9781118871645.",
+    "authors": [
+      "Jon Duckett"
+    ],
+    "publishedDate": "2014-07-21",
+    "thumbnail": "http://books.google.com/books/content?id=_uTRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "C3L1DwAAQBAJ",
+    "title": "HTML, CSS & JavaScript in easy steps",
+    "summary": "Each chapter builds your knowledge so by the end of the book you&#39;ll have gained a sound understanding of HTML markup, CSS rules and JavaScript functions.",
+    "authors": [
+      "Mike McGrath"
+    ],
+    "publishedDate": "2020-08-05",
+    "thumbnail": "http://books.google.com/books/content?id=C3L1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "QcnNnQEACAAJ",
+    "title": "Pro JavaScript Development",
+    "summary": "This book teaches and shows you in practical hands-on terms how you can: Master the performance, reliability, stability, and code manageability of your JavaScript Understand and write efficient object-oriented and prototypal code, including ...",
+    "authors": [
+      "Den Odell"
+    ],
+    "publishedDate": "2014-08-09",
+    "thumbnail": "http://books.google.com/books/content?id=QcnNnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "5wMdzNG5l9cC",
+    "title": "Web Development with JavaScript and Ajax Illuminated",
+    "summary": "This text illustrates how to create dynamic, interactive web applications with ease, and interesting real-world case studies throughout the text offer students a glimpse of actual web development scenarios.&quot;--BOOK JACKET.",
+    "authors": [
+      "Richard Allen",
+      "Xiang Fu",
+      "Lixin Tao"
+    ],
+    "publishedDate": "2009",
+    "thumbnail": "http://books.google.com/books/content?id=5wMdzNG5l9cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  }
+]
